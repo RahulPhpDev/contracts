@@ -9,7 +9,7 @@ interface CanResetPassword
      *
      * @return string
      */
-    public function getEmailForPasswordReset();
+    public function getEmailForPassdfdsfsafasfdasfasfasdfaswordReset();
 
     /**
      * Send the password reset notification.
